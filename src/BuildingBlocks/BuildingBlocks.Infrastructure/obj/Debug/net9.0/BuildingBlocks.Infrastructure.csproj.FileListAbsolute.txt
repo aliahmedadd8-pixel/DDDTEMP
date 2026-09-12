@@ -15,3 +15,4 @@ C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\Bu
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\refint\BuildingBlocks.Infrastructure.dll
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.pdb
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\ref\BuildingBlocks.Infrastructure.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Infrastructure\obj\Debug\net9.0\BuildingBlocks.Infrastructure.sourcelink.json

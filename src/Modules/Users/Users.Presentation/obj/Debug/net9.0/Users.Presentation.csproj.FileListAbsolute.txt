@@ -23,3 +23,4 @@ C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Use
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Presentation\obj\Debug\net9.0\refint\Users.Presentation.dll
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Presentation\obj\Debug\net9.0\Users.Presentation.pdb
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Presentation\obj\Debug\net9.0\ref\Users.Presentation.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Presentation\obj\Debug\net9.0\Users.Presentation.sourcelink.json

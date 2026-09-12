@@ -19,3 +19,4 @@ C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Use
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Application\obj\Debug\net9.0\refint\Users.Application.dll
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Application\obj\Debug\net9.0\Users.Application.pdb
 C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Application\obj\Debug\net9.0\ref\Users.Application.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\Modules\Users\Users.Application\obj\Debug\net9.0\Users.Application.sourcelink.json
