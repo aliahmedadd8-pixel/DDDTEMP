@@ -1,0 +1,17 @@
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Presentation.deps.json
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Presentation.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Presentation.pdb
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Application.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Domain.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Application.pdb
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\bin\Debug\net9.0\BuildingBlocks.Domain.pdb
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.csproj.AssemblyReference.cache
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.AssemblyInfoInputs.cache
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.AssemblyInfo.cs
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\Building.2B047DD9.Up2Date
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\refint\BuildingBlocks.Presentation.dll
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\BuildingBlocks.Presentation.pdb
+C:\Users\Dev57.THARWAT\.gemini\antigravity\scratch\DDDTEMP\src\BuildingBlocks\BuildingBlocks.Presentation\obj\Debug\net9.0\ref\BuildingBlocks.Presentation.dll
