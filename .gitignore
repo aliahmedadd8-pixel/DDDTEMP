@@ -1,0 +1,111 @@
+## ====================================================================
+## Visual Studio & .NET Build Output
+## ====================================================================
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+artifacts/
+[Tt]emp/
+
+# MSBuild & Project-specific user files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+*.launchSettings.json.user
+
+## ====================================================================
+## IDEs & Editors
+## ====================================================================
+# Visual Studio
+.vs/
+*.VC.db
+*.opendb
+
+# JetBrains Rider & ReSharper
+.idea/
+_ReSharper*/
+*.ReSharper.user
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+*.ionide
+
+## ====================================================================
+## Testing & Code Coverage
+## ====================================================================
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults/
+coverage/
+*.coverage
+*.coveragexml
+*.codecoverage
+_NCrunch_*
+.*crunch*.local.xml
+
+## ====================================================================
+## Databases & Local Storage
+## ====================================================================
+# SQLite local databases created by EF Core during development
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.db3
+
+# Local database files
+*.mdf
+*.ldf
+*.ndf
+
+## ====================================================================
+## Secrets, Environment & Local Configuration
+## ====================================================================
+*.env
+*.env.*
+!.env.example
+appsettings*.local.json
+secrets.json
+
+## ====================================================================
+## Logs & Diagnostic Output
+## ====================================================================
+*.log
+[Ll]ogs/
+_logs/
+
+## ====================================================================
+## NuGet Packages
+## ====================================================================
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## ====================================================================
+## Operating System Specific Files
+## ====================================================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
